@@ -1,0 +1,10 @@
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\bin\Debug\WithoutFabricMethod.exe.config
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\bin\Debug\WithoutFabricMethod.exe
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\bin\Debug\WithoutFabricMethod.pdb
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.csproj.AssemblyReference.cache
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.Form_main.resources
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.Properties.Resources.resources
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.csproj.GenerateResource.cache
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.exe
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\WithoutFabricMethod\WithoutFabricMethod\obj\Debug\WithoutFabricMethod.pdb

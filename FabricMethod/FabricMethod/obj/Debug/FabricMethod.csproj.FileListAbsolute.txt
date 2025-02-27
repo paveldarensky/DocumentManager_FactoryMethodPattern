@@ -1,0 +1,10 @@
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\bin\Debug\FabricMethod.exe.config
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\bin\Debug\FabricMethod.exe
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\bin\Debug\FabricMethod.pdb
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.csproj.AssemblyReference.cache
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.Properties.Resources.resources
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.csproj.GenerateResource.cache
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.exe
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.pdb
+C:\Users\pavel\Programming\TSU\SEMESTER_6\OOAD\LW1\FabricMethod\FabricMethod\obj\Debug\FabricMethod.Form_main.resources
