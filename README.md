@@ -54,4 +54,10 @@ Electronic document management system demonstrating the **Factory Method** desig
 
 ## 🖼 Screenshot / Скриншот
 
+![Диаграмма](images/diagramm.png)  
+*Рис. 1 — Паттерн «Фабричный метод» в архитектуре программы*
+
+![Программа](images/application.png)  
+*Рис. 2 — Главное окно программы*
+
 ---
